@@ -1,13 +1,11 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2025-10-07",
-  "banners": {
-    "home_hero": {
-      "url": "https://raw.githubusercontent.com/asetascent-jpg/banner/main/all%20(1920%20x%20600%20px).png",
-      "fallback": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
-      "width": 1920,
-      "height": 600
-    }
+    "banners": [
+      {
+        "image": "https://raw.githubusercontent.com/asetascent-jpg/banner/main/all%20(1920%20x%20600%20px).png",
+        "title": "Judul banner",
+        "description": "Deskripsi banner",
+        "link": "https://lynk.id/techstation",
+        \\"buttonText": "Text tombol (optional)"
+      }
+    ]
   }
-}
-
