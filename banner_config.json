@@ -3,13 +3,14 @@
     "last_updated": "2025-10-07",
     "banners": {
       "home_hero": {
-        "url": "https://raw.githubusercontent.com/asetascent-jpg/banner/main/all%20(1920%20x%20600%20px).png",
+        "url": "https://github.com/asetascent-jpg/banner/blob/main/all%20(1920%20x%20600%20px).png",
         "fallback": "URL_FALLBACK",
         "width": 1920,
         "height": 600
       }
     }
 }
+
 
 
 
